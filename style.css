@@ -1,0 +1,56 @@
+body {
+  background: url("microphone.png");
+  background-size: 700px 1082px;
+  background-position: center -150px;
+    background-repeat: no-repeat
+    ;
+}
+h2.answername{
+    text-align: center;
+    color: white;
+    font-family: "Helvetica Bold", sans-serif;
+    font-size: 100px;
+    line-height: 0
+    text-po;
+
+}
+
+h2.answerwhere{
+    text-align: center;
+    color: white;
+    font-family: "Helvetica Bold", sans-serif;
+    font-size: 50px;
+    line-height: -0.1;
+
+}
+h2.answerwhen{
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    	font-size: 35px;
+    	font-style: normal;
+    	font-variant: normal;
+    	font-weight: bold;
+    	line-height: 32px;
+
+}
+
+h2.answercost{
+    text-align: center;
+    color: white;
+    font-family: "Helvetica Bold", sans-serif;
+    font-size: 150px;
+    line-height: 0;
+
+}
+
+h2.answerurl{
+    color: black;
+    font-family: "Helvetica", sans-serif;
+    font-size: 35px;
+    position: absolute;
+      left: 25px;
+      bottom: 15px;
+    line-height: 0;
+
+}
